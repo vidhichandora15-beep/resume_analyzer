@@ -1,0 +1,14 @@
+# Website interface
+streamlit
+
+# PDF resume read karne ke liye
+pymupdf
+
+# Text matching aur similarity score
+scikit-learn
+
+# Results table banane ke liye
+pandas
+
+# Charts aur graphs ke liye
+matplotlib
